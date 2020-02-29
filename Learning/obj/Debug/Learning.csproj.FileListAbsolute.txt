@@ -1,0 +1,6 @@
+D:\_CSharp_Project_\Learning\Learning\bin\Debug\Learning.exe.config
+D:\_CSharp_Project_\Learning\Learning\bin\Debug\Learning.exe
+D:\_CSharp_Project_\Learning\Learning\bin\Debug\Learning.pdb
+D:\_CSharp_Project_\Learning\Learning\obj\Debug\Learning.csprojAssemblyReference.cache
+D:\_CSharp_Project_\Learning\Learning\obj\Debug\Learning.exe
+D:\_CSharp_Project_\Learning\Learning\obj\Debug\Learning.pdb
